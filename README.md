@@ -2,8 +2,6 @@
 
 Hi! I'm Jahnavi Pandey, a passionate Computer Science undergrad from KIET Group of Institutions. I love building meaningful projects and continuously learning new things!
 
-🌱 Currently learning: Web Development & DSA in Java 
-
 📚 Always open to collaboration, learning, and new opportunities!
 
 
